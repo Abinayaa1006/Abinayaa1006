@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a CSE Student passionate about Data Analytics
+## Hi there 👋 I'm Abinayaa...
 
 🎓 Second Year B.Tech Computer Science Engineering student at Pondicherry University  
 📊 Aspiring Data Analyst with interest in data-driven problem solving  
