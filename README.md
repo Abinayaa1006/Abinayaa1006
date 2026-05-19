@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Abinayaa
 
-🎓 Second Year **B.Tech Computer Science Engineering** student at **Pondicherry University**  
+🎓 Third Year **B.Tech Computer Science Engineering** student at **Pondicherry University**  
 📊 **Aspiring Data Analyst** passionate about data-driven problem solving
 
 ---
